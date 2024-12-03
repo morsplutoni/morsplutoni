@@ -15,8 +15,7 @@
 
 When I’m not writing code or creating music, you’ll probably catch me immersing myself in <b>games</b> or exploring new <b>music</b> to fuel my creativity. For me, every line of code and every note struck is a step towards innovation and expression. </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p5f4uoeqfiiwpdsm3gjzhq5llq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000148.27ca863f918049f49acd542f975fdb44.2219)](https://github.com/rayriffy/apple-music-github-profile)
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nyankina)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://itch.io/nyankina)
