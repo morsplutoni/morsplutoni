@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://count.getloli.com/@nyankina?name=nyankina&theme=capoo-1&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto"/>
+  <img src="https://count.getloli.com/@soulacid720?name=soulacid720&theme=capoo-1&padding=7&offset=0&scale=1&pixelated=0&darkmode=auto"/>
 </div>
 
 <h1 align="center">Hey, I'm Quinn 🏳️‍⚧️</h1>
