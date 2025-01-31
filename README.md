@@ -2,7 +2,7 @@
   <img src="https://count.getloli.com/@tecknami?name=tecknami&theme=capoo-1&padding=7&offset=0&scale=1&pixelated=0&darkmode=auto"/>
 </div>
 
-<h1 align="center">Hey, I'm Quinn 🏳️‍⚧️</h1>
+<h1 align="center">Hey, I'm Tecknami</h1>
 <blockquote align="center"> WebDev • GameDev • Hacking • Music • Art</blockquote>
 
 <p align="center">
