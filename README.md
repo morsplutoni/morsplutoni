@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://count.getloli.com/@tecknami?name=tecknami&theme=capoo-1&padding=7&offset=0&scale=1&pixelated=0&darkmode=auto"/>
+  <img src="https://count.getloli.com/@morsplutoni?name=morsplutoni&theme=capoo-1&padding=7&offset=0&scale=1&pixelated=0&darkmode=auto"/>
 </div>
 
 <h1 align="center">Hey, I'm Quinn</h1>
@@ -10,10 +10,6 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,ts,js,tailwind,linux,vim,lua,rust,python" />
   </a>
 </p>
-
-<p>I'm a programmer who thrives in <b>frontend</b>, <b>backend</b>, and <b>music production</b>. I craft elegant user experiences, build robust systems, and occasionally get lost in the world of beats and melodies.
-
-When I’m not writing code or creating music, you’ll probably catch me immersing myself in <b>games</b> or exploring new <b>music</b> to fuel my creativity. For me, every line of code and every note struck is a step towards innovation and expression. </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31chu7pwyztmssyhorvngkijm6eu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
