@@ -1,3 +1,4 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31chu7pwyztmssyhorvngkijm6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <h1 align="center"><code>/mɔrs pluːˈtoː.ni/</code></h1>
 <blockquote align="center"> WebDev • GameDev • Hacking • Music • Art</blockquote>
 
@@ -8,8 +9,6 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsplutoni)](https://github.com/anuraghazra/github-readme-stats)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31chu7pwyztmssyhorvngkijm6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/quinnxenia)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://itch.io/xenithengine)
